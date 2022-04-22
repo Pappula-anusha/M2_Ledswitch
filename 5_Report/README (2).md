@@ -101,3 +101,10 @@ It has simple features.
 | LLR_2	| Switch off | value 2 | LED Off | LED On| Rquirement |
 
 
+# Switch is Off:
+![SMILUATION](https://user-images.githubusercontent.com/102424669/164623291-d33333f3-f442-45dd-bb42-85d99160e6a8.JPG)
+
+# Switch is On:
+![Light on](https://user-images.githubusercontent.com/102424669/164625495-09da56d3-f424-4354-8c65-53d66186c28c.JPG)
+![on LED](https://user-images.githubusercontent.com/102424669/164625571-43496ae8-440f-481c-b80c-b7e6d5f61bdc.JPG)
+
