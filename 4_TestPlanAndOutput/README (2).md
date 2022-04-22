@@ -16,3 +16,11 @@
 | LLR_2 | Switch | Implemented |
 | LLR_3 | Two LED	 | Implemented |
 | LLR_4 | Visual studio & SimulIDE	 | Implemented |
+
+# Switch is Off:
+
+
+
+
+
+# Switch is On:
