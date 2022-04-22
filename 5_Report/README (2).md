@@ -80,3 +80,24 @@ It has simple features.
 # Smiluation:
 ![SMILUATION](https://user-images.githubusercontent.com/102424669/164623291-d33333f3-f442-45dd-bb42-85d99160e6a8.JPG)
 
+# Implementation:
+
+# Folder Structure:
+| Folder	| Description |
+|-------|--------|
+| simulation	| simulation files |
+| src | Main source code |
+# Test Plan
+# High Level Requirement
+|  Id|  Description | Expected I/P | Expected O/P	| Actual O/P | Type Of Test |
+|------|------|------|-----|-----|--------|
+| HLR_1	| Switch on | High power | LED On | LED On| Rquirement |
+| HLR_2	| Switch off | No  power | LED Off | LED On| Rquirement |
+
+# Low Level Requirement
+|  Id|  Description | Expected I/P | Expected O/P	| Actual O/P | Type Of Test |
+|------|------|------|-----|-----|------|
+| LLR_1	| Switch on | value 1 | LED On | LED On| Rquirement |
+| LLR_2	| Switch off | value 2 | LED Off | LED On| Rquirement |
+
+
